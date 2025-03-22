@@ -92,4 +92,6 @@ int main() {
 	l.display();
 	cout << "\nCode By : Zain Ul Abidin";
 	cout << "\nSigning off...\n";
+
+	return 0;
 }
